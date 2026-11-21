@@ -1,0 +1,3 @@
+# MedCore Hospital Management System — Python 3.11+ Backend
+# Uses Python Standard Library modules exclusively (http.server, sqlite3, hashlib, hmac, json, datetime)
+# Zero external runtime dependencies required.

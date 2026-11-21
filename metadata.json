@@ -1,0 +1,6 @@
+{
+  "name": "MedCore Hospital Management System",
+  "description": "Role-based Hospital Management System built with a Python backend and SQLite database for patient registration, doctor scheduling, appointments, room admissions, billing, and clinical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
